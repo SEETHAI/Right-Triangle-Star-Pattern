@@ -3,8 +3,8 @@ Java Program To Pint Right Triangle Star Program
 package righttrianglestarprogram;
 public class RightTriangleStarProgram {
     public static void main(String[] args) {
-        int i,j;
-        for(i=1;i<=5;i++)
+        int k,j;
+        for(k=1;k<=5;k++)
         {
             for(j=1;j<=i;j++)
             {
